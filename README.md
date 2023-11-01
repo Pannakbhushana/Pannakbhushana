@@ -21,10 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rahulku39403175" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rahulku39403175" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/rahul kumar mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul kumar mishra" height="30" width="40" /></a>
-
-<a href="https://pannakbhushana.github.io/">Portfolio</a> 
-  
+<a href="https://linkedin.com/in/rahul kumar mishra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rahul kumar mishra" height="30" width="40" /></a> 
 <a href="https://codesandbox.com/pannakbhushana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="pannakbhushana" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rahulkumarmishra5338" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rahulkumarmishra5338" height="30" width="40" /></a>
 </p>
