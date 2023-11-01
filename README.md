@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **LinkedIn & GitHub**
 
-- 👨‍💻 Have a look at my  <a href="https://pannakbhushana.github.io/">Portfolio</a> 
+- 👨‍💻 Portfolio Link  <a href="https://pannakbhushana.github.io/">Portfolio</a> 
 
 - 📫 How to reach me **rahulkumarmishra5338@gmail.com**
 
