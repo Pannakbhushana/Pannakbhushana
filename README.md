@@ -1,5 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul Kumar Mishra
+Hi👋, ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rahul Kumar Mishra
 ==========================================================================================================================================
+<img align="right" alt="coding" width="100%" height="500px" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 I'm a Full Stack Web Developer
 ------------------------------
@@ -40,10 +41,4 @@ src="https://img.shields.io/github/followers/Pannakbhushana?logo=github&style=fo
 
 <a href="https://github.com/Pannakbhushana" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pannakbhushana&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/Pannakbhushana/Meesho-Clone" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pannakbhushana&repo=Meesho-Clone&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Pannakbhushana/MyTube" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pannakbhushana&repo=MyTube&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/Pannakbhushana/job-search-app" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pannakbhushana&repo=job-search-app&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Pannakbhushana/Fresh-Ahaar" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Pannakbhushana&repo=Fresh-Ahaar&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
