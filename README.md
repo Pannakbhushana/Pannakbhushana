@@ -10,7 +10,7 @@ I have over 1200+ consistent hrs of experience building dynamic and responsive a
 * 🌍  I'm based in Gumla, Jharkhand
 * 🖥️  See my portfolio at [MyPortfolio](http://https://pannakbhushana.github.io/)
 * ✉️  You can contact me at [rahulkumarmishra5338@gmail.com](mailto:rahulkumarmishra5338@gmail.com)
-* 🚀  I'm currently working on [kitaabganj.com](kitaabganj.com)
+* 🚀  I'm currently working on [kitaabganj.com](https://kitaabganj.com/)
 * 🧠  I'm learning MERN Stack
 * 🤝  I'm open to collaborating on Projects
 
