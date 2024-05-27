@@ -13,6 +13,7 @@ I have over 1200+ consistent hrs of experience building dynamic and responsive a
 * 🚀  I'm currently working on [kitaabganj.com](https://kitaabganj.com/)
 * 🧠  I'm learning MERN Stack
 * 🤝  I'm open to collaborating on Projects
+* 🤝  I'm passionate about software development, with a keen interest in developing scalable web applications.
 
 <a href="https://www.github.com/Pannakbhushana" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Pannakbhushana?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -38,7 +39,7 @@ src="https://img.shields.io/github/followers/Pannakbhushana?logo=github&style=fo
 <a href="http://www.github.com/Pannakbhushana"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Pannakbhushana&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 
-
-<a href="https://github.com/Pannakbhushana" align="left"><img src="https://github-readme-activity-graph.vercel.app/api/top-langs/?username=Pannakbhushana&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
+<a href="https://github.com/Pannakbhushana" align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pannakbhushana&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
+</a>
 
