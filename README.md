@@ -8,7 +8,7 @@ I'm a Full Stack Web Developer
 I have over 1200+ consistent hrs of experience building dynamic and responsive applications. I have a strong background in, HTML, CSS, JavaScript, React, and Redux . I'm always looking to learn and try new technologies. In my free time, I enjoy creating random applications and attending Lit-code. You can find some of my work on GitHub, and be sure to check out my website for more information about my projects and experience. Connect with me on LinkedIn to learn more about my professional background and skills.
 
 * 🌍  I'm based in Gumla, Jharkhand
-* 🖥️  See my portfolio at [MyPortfolio](http://https://pannakbhushana.github.io/)
+* 🖥️  See my portfolio at [MyPortfolio](https://rahul-mishra-portfolio.netlify.app/)
 * ✉️  You can contact me at [rahulkumarmishra5338@gmail.com](mailto:rahulkumarmishra5338@gmail.com)
 * 🚀  I'm currently working on [kitaabganj.com](https://kitaabganj.com/)
 * 🧠  I'm learning MERN Stack
