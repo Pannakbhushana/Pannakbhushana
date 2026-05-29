@@ -10,7 +10,7 @@ I have over 1200+ consistent hrs of experience building dynamic and responsive a
 * 🌍  I'm based in Gumla, Jharkhand
 * 🖥️  See my portfolio at [MyPortfolio](https://rahul-mishra-portfolio.netlify.app/)
 * ✉️  You can contact me at [rahulkumarmishra5338@gmail.com](mailto:rahulkumarmishra5338@gmail.com)
-* 🚀  I'm currently working on [kitaabganj.com](https://kitaabganj.com/)
+* 🚀  I'm currently working on [kitaabganj.com](https://play.google.com/store/apps/details?id=com.rahulmishra.PujaPadhati)
 * 🧠  I'm learning MERN Stack
 * 🤝  I'm open to collaborating on Projects
 * 🤝  I'm passionate about software development, with a keen interest in developing scalable web applications.
